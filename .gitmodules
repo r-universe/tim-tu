@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "weibulltools"]
+	path = weibulltools
+	url = https://github.com/tim-tu/weibulltools
+	shallow = true
+	registered = true
